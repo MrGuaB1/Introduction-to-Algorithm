@@ -1,0 +1,67 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.mydiv {
+    display: inline-block;
+    margin-right: 100px;
+}
+.demo1 {
+    width: 50px;
+    height: 50px;
+    background-color:rgb(205,15,111);
+}
+.demo2 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(182,186,252);
+}
+.demo3 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(156,225,174);
+}
+.demo4 {
+    width: 50px;
+    height: 50px;
+    background-color:rgb(86,141,235);
+}
+.demo6 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(210,33,139);
+}
+.demo7 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(169,75,223);
+}
+.demo8 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(230,204,229);
+}
+.demo9 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(6,78,143);
+}
+.demo10 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(10,111,240);
+}
+.demo5 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(179, 51, 220);
+}
+.center {
+    margin-top:100px;
+    text-align: center;
+}
+.bef {
+    text-align: center;
+    margin-left:-100px;
+    margin-bottom: 20px;
+}
