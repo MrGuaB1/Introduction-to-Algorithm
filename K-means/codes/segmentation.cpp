@@ -20,7 +20,7 @@ int main(int argc, char** argv)
 	Mat labels;
 	int attempts = 5;
 	Mat centers;
-	kmeans(samples, clusterCount, labels, TermCriteria(CV_TERMCRIT_ITER | CV_TERMCRIT_EPS, 10000, 0.0001), attempts, KMEANS_PP_CENTERS, centers);
+	kmeans(samples, clusterCount, labels, TermCriteria(cv::TermCriteria::COUNT | cv::TermCriteria::EPS, 10000, 0.0001), attempts, KMEANS_PP_CENTERS, centers);
 
 	Mat new_image(src.size(), src.type());
 	for (int y = 0; y < src.rows; y++)
