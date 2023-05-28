@@ -1,0 +1,112 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.mydiv {
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+    background-color: pink;
+    display: inline-block;
+}
+.cent {
+    text-align: center;
+    margin-top:100px;
+}
+.bef {
+    text-align: center;
+    margin-left: -70px;
+    margin-bottom: 20px;
+}
+.demo1 {
+    background-color: rgb(17,85,57);
+}
+.demo2 {
+    background-color: rgb(204,17,146);
+}
+.demo3 {
+    background-color: rgb(231,34,36);
+}
+.demo4 {
+    background-color: rgb(22,17,74);
+}
+.demo5 {
+    background-color: rgb(27,68,123);
+}
+.demo6 {
+    background-color: rgb(129,0,88);
+}
+.demo7 {
+    background-color: rgb(103,102,105);
+}
+.demo8 {
+    background-color: rgb(247,34,27);
+}
+.demo9 {
+    background-color: rgb(111,34,158);
+}
+.demo10 {
+    background-color: rgb(106,17,244);
+}
+.demo11 {
+    background-color: rgb(217,0,23);
+}
+.demo12 {
+    background-color: rgb(183,34,179);
+}
+.demo13 {
+    background-color: rgb(163,34,98);
+}
+/* 2nd cluster */
+.demo14 {
+    background-color: rgb(24,204,193);
+}
+.demo15 {
+    background-color: rgb(125,204,190);
+}
+.demo16 {
+    background-color: rgb(133,153,252);
+}
+.demo17 {
+    background-color: rgb(6,238,115);
+}
+.demo18 {
+    background-color: rgb(68,136,234);
+}
+.demo19 {
+    background-color: rgb(110,136,249);
+}
+.demo20 {
+    background-color: rgb(37,187,149);
+}
+/* 3rd cluster */
+.demo21 {
+    background-color: rgb(206,221,82);
+}
+.demo22 {
+    background-color: rgb(148,187,16);
+}
+.demo23 {
+    background-color: rgb(242,136,127);
+}
+.demo24 {
+    background-color: rgb(134,221,51);
+}
+.demo25 {
+    background-color: rgb(237,187,188);
+}
+.demo26 {
+    background-color: rgb(134,221,82);
+}
+.demo27 {
+    background-color: rgb(180,238,15);
+}
+.demo28 {
+    background-color: rgb(70,153,2);
+}
+.demo29 {
+    background-color: rgb(194,187,90);
+}
+.demo30 {
+    background-color: rgb(224,170,240);
+}
